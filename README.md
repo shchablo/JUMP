@@ -2,7 +2,7 @@
 
 ## Description
 
-It is the list of notebooks with the results of any of my studies.
+It is the list of notebooks with the results of my studies.
 
 ## Requirements 
 
