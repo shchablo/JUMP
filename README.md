@@ -1,4 +1,4 @@
-# JUMP - JUpython notebooks of My Projects.
+# JUMP - JUpyter notebooks of My Projects.
 
 ## Description
 
